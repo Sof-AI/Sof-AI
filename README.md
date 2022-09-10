@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sof-AI
-- 👀 I’m interested in Minecraft, social computing, and pokemon (specifically Pokemon Showdown, SS OU if anyone's out there.)
-- 🌱 I’m currently learning JS, back-end web design, and database stuff. Also, that I need a pokemon with volt switch or at the very least u-turn
-- 💞️ I’m looking to collaborate on beginner level stuff? I know python, HTML/CSS, and JS
-- 📫 How to reach me....
+- 👋 Hi, I’m @Sof-AI and I code primarily in Python 
+- 👀 I’m interested in backend development, ML/AI, data science, and game development!
+- 🌱 I’m currently learning about circuit boards, systems architecture, and large-scale web scraping!
+- 💞️ I’m looking to collaborate on beginner-level open source projects to grind my coding skills and learn more about the tech community.
 
 <!---
 Sof-AI/Sof-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
